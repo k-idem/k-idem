@@ -1,6 +1,6 @@
 <!-- k-idem/README.md -->
 
-### 👋 Hi, I’m Ken Idem
+### 👋 Hi, I’m Kenneth Idem
 
 - 🛠  Cloud-first **Data Engineer** with a PhD from Purdue and an M.S. in Computer & Information Technology (Penn MCIT, 2025).
 - 💡 I turn raw telemetry and geotechnical data into analytics-ready tables and dashboards.
