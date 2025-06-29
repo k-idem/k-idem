@@ -23,4 +23,4 @@
 
 #### 📫  Let’s connect
 
-<a href="[LinkedIn](https://www.linkedin.com/in/kenneth-idem/) • [Email](mailto:ken.idem@gmail.com)</a>
+[LinkedIn](https://www.linkedin.com/in/kenneth-idem/) • [Email](mailto:ken.idem@gmail.com)
