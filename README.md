@@ -13,6 +13,7 @@
 
 | Project | Stack | What I built |
 |---------|-------|--------------|
+| **RAG Document Assistant** | Python · Streamlit · ChromaDB · OpenAI | Local RAG app for technical document Q&A. <br/>*Document loading, chunking, embeddings, semantic retrieval, grounded answers, and source display.* |
 | **Zoomcamp Capstone** | Kestra · dbt · BigQuery · Looker | End-to-end ELT: ingest → warehouse → BI. <br/>*Idempotent MERGE pattern, daily schedule, cost-optimized partitions.* |
 | **AWS Redshift Warehouse** | S3 · EMR Spark · Redshift · Airflow | 1.2 B rows pipeline, COPY tuning (5× faster), dist/sort key design, data-quality tests. |
 | **Terraform Mini-IAC** | Terraform · AWS/GCP | Self-service module that stands up bucket + warehouse + Secrets in 2 min, with remote state in S3/GCS. |
