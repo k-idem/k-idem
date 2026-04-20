@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m Kenneth Idem
 
-- 🛠 Cloud-first **Data Engineer** with a PhD from Purdue and an M.S. in Computer & Information Technology (Penn MCIT).
+- 🛠 Cloud-first **Data Engineer** with a PhD from Purdue and an Masters of Applied Science in Computer Science (formerly MCIT).
 - 💡 I turn raw telemetry and geotechnical data into analytics-ready tables and dashboards.
 - 🌐 Tech toolbox:  
   `Databricks` • `PySpark` • `Docker` • `Kestra` • `dbt` • `BigQuery` • `Redshift` • `Terraform` • `Python`
