@@ -17,7 +17,7 @@
 | **RAG Document Assistant** | Python · Streamlit · ChromaDB · OpenAI | Local RAG app for technical document Q&A. <br/>*Document loading, chunking, embeddings, semantic retrieval, grounded answers, and source display.* |
 | **Zoomcamp Capstone** | Kestra · dbt · BigQuery · Looker | End-to-end ELT: ingest → warehouse → BI. <br/>*Idempotent MERGE pattern, daily schedule, cost-optimized partitions.* |
 | **AWS Redshift Warehouse** | S3 · EMR Spark · Redshift · Airflow | 1.2B-row pipeline, COPY tuning (5× faster), distribution and sort key design, and data quality checks. |
-| **Terraform Mini-IaC** | Terraform · AWS/GCP | Self-service infrastructure module that stands up storage, warehouse resources, and secrets management with remote state. |
+| **Terraform Mini-IaC** | Terraform · AWS | Self-service infrastructure module that stands up storage, warehouse resources, and secrets management with remote state. |
 
 > 📸 Every repo includes screenshots, documentation, and a runnable demo or walkthrough.
 
